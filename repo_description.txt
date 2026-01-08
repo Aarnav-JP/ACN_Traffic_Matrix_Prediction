@@ -1,0 +1,1 @@
+An AI-based Traffic Matrix Prediction Solution for Software-Defined Networks (SDN). predicting network traffic using Deep Learning models (LSTM, Bi-LSTM, GRU) integrated with Mininet and Ryu controller.
